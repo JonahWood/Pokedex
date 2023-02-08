@@ -6,7 +6,39 @@ body{
 }
 
 .ze-header{
-    background-color: #ff0000a7;
+    background-color: #ff0000e8;
     color:whitesmoke ;
     text-shadow: #00000090 3px 3px;
+}
+
+.big-jake{
+    border: 3px solid #ff0000;
+    box-shadow: black 5px 5px;
+    background-color: #f5f5f5c9;
+}
+
+.poke-img{
+    height: 40em;
+    width: auto;
+}
+
+.poke-card{
+    background-color: #f5f5f5b8;
+}
+
+.pokedex-button{
+background-color: #ff0000e8;
+border: 2px solid #ffffffe8;
+border-radius: 5px;
+color: whitesmoke;
+}
+
+.poke-canvas{
+    background-color: #ff0000d3;
+    color: whitesmoke;
+}
+
+.canvas-logo-size{
+    height: 60px;
+    width: auto;
 }
