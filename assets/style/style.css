@@ -1,1 +1,12 @@
 /* BASIC STYLES HERE */
+body{
+    background-image: url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/412696943ecf62e9ee477e085adbea07-1648378716/RockForest/draw-a-pixel-pokemon-battle-background.gif);
+    background-size: cover;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.ze-header{
+    background-color: #ff0000a7;
+    color:whitesmoke ;
+    text-shadow: #00000090 3px 3px;
+}

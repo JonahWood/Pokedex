@@ -1,7 +1,8 @@
+import { PokeController } from "./Controllers/PokeController.js";
 import { ValuesController } from "./Controllers/ValuesController.js";
 
 class App {
-  valuesController = new ValuesController();
+pokeController = new PokeController
 }
 
 window["app"] = new App();
